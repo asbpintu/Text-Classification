@@ -2,4 +2,4 @@
 Text Classification for Active vs. Passive Voice Detection
 
 
-Deployment link :- 
+Deployment link :- https://textclassification.streamlit.app/
